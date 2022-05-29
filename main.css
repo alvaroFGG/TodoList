@@ -1,0 +1,11 @@
+.tasks__ul-li{
+    font-size: 1.5rem;
+    gap: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+
+#editBtn{
+    visibility: hidden;
+}
